@@ -1,0 +1,5 @@
+/* Définir une marge interne en bas de l'élément h1 de 30px. */
+h1 {
+    background: lightblue;
+    padding-bottom: 30px;
+ }

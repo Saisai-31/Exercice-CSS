@@ -1,0 +1,6 @@
+/* Limiter la largeur du <h1> à 50 % et augmenter la hauteur à 150px. */
+h1 {
+    background: yellow;
+    width: 50%;
+    height: 150px;
+ }

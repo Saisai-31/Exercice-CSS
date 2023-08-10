@@ -1,0 +1,30 @@
+/* Définir une couleur différente avec le nom de votre choix pour les deux paragraphes. */
+body {
+    font-size: 14px;
+ }
+ .b-52{
+    color: brown;
+ }
+ .basil-smash{
+    color: blue;
+ }
+ /* Définir une couleur différente avec un code hexadécimal pour les éléments <span> et <h1>. */
+ /* Transformer les titres en majuscules. */
+ h1{
+    color: rgb(46, 160, 160);
+    text-transform: uppercase;
+ }
+ span{
+    color: rgb(122, 29, 210);
+ }
+ /* Centrer horizontalement les paragraphes à l'intérieur du premier élément <div> */
+ .super1 p{
+    text-align: center;
+ }
+ /* Supprimer le souligné des liens et barrer les éléments <span> */
+ a{
+    text-decoration: none;
+ }
+ span{
+    text-decoration: line-through;
+ }

@@ -1,0 +1,5 @@
+/* Déterminer une marge interne pour tous les côtés de 5px pour l'élément .mega */
+.mega {
+    background: powderblue;
+    padding: 5px;
+ }

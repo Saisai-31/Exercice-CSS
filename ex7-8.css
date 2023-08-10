@@ -1,0 +1,11 @@
+/* Définir une bordure solide rouge de 5px tout autour de l'élément h1 */
+h1 {
+    font-size: 26px;
+    border: 5px solid red;
+ }
+
+ /* Définir une couleur d'arrière-plan pour l'élément <body> */
+ body{
+    font-size: 14px;
+    background-color: blanchedalmond;
+ }

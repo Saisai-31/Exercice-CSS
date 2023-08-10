@@ -1,0 +1,5 @@
+/* Utiliser le raccourci le plus minimaliste possible pour définir les marges externes de #super haut et bas à 50px et celles des côtés droit et gauche à 25px */
+#super {
+    background: powderblue;
+    margin: 50px 25px;
+ }

@@ -1,0 +1,18 @@
+/* Modifier le code HTML et la feuille de style CSS pour obtenir le rendu ci-dessous, en utilisant les images suivantes.
+
+Carré noir
+Carré blanc
+Carré rouge */
+
+img {
+    display: block;
+    border: none;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+td{
+   padding: 0;
+}	

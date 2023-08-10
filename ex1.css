@@ -1,0 +1,4 @@
+/* Faire disparraître le 2ème paragraphe qui a la classe hidden */
+#hidden{
+    display: none;
+}
