@@ -1,0 +1,26 @@
+/* Écrire le code HTML et la feuille de style CSS pour obtenir le rendu ci-dessous, en utilisant les images ci-après.
+Fond
+Planète 1
+Planète 2
+Planète 3 */
+
+body{
+    background-image: url(https://aymeric-auberton.fr/img/css/bg.webp);
+}
+
+.planete1{
+    width: 15%;
+    height: 15%;
+}
+.planete2{
+    width: 25%;
+    height: 25%;
+}
+.planete3{
+    width: 35%;
+    height: 35%;
+}
+p{
+    margin-top: 110px;
+    text-align: center;
+}

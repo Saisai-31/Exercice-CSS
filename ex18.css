@@ -1,0 +1,36 @@
+body{
+    background-color: #5c94fc;
+    text-align: center;
+}
+.ensemble{
+    border: 5px solid black;
+    height: 614px;
+    width: 50%;
+    margin: auto;
+}
+.un{
+    background-color: #4976c9;
+    height: 150px;
+    width: 25%;
+    border-right: 5px black solid;
+}
+.deux{
+    background-color: #375897;
+    height: 150px;
+    width: 50%;
+    border-top: 5px black solid;
+    border-right: 5px black solid;
+}
+.trois{
+    background-color: #243b64;
+    height: 150px;
+    width: 75%;
+    border-top: 5px black solid;
+    border-right: 5px black solid;
+}
+.quatre{
+    background-color: #121d32;
+    height:150px;
+    width: 100%;
+    border-top: 5px black solid;
+}

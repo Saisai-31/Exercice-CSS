@@ -1,0 +1,19 @@
+/* Écrire le code HTML et la feuille de style CSS pour obtenir le rendu ci-dessous, en utilisant les codes couleurs ci-après.
+Jaune : #FCD116
+Bleu : #003893
+Rouge : #CE1126 */
+.jaune{
+    background-color: #FCD116;
+    height: 40vh;
+}
+.bleu{
+    background-color: #003893;
+    height: 20vh;
+}
+.rouge{
+    background-color: #CE1126;
+    height: 20vh;
+}
+.texte{
+    text-align: center;
+}
