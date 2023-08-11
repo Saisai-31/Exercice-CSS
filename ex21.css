@@ -1,0 +1,24 @@
+#drapeau-head{
+    text-align: center;
+}
+#drapeau-head img {
+    height: 50px;
+}
+
+#drapeau-head, p, ul {
+    border: 1px solid blue;
+    background-color: grey;
+    padding: 20px;
+}
+h1, h2 {
+    color: blue;
+    text-transform: uppercase;
+}
+table, td, th {
+    border: 1px solid blue;
+}
+th {
+    text-transform: uppercase;
+    text-align: center;
+    background-color: gray;
+}
