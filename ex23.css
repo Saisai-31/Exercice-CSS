@@ -1,0 +1,42 @@
+body {
+    font-family: monospace;
+}
+h1 {
+    color: #008CBA;
+}
+h1 span {
+    color: black;
+    font-size: x-small;
+    font-style: italic;
+    background-color: lightgray;
+    border-radius: 10px;
+    padding: 0 5px;
+}
+button {
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    margin-right: 10px;
+}
+#bleu {
+    background-color: #008CBA;
+}
+#vert {
+    background-color: #4CAF50;   
+}
+#noir {
+    background-color: #555555;
+}
+th {
+    background-color: lightgray;
+}
+strong {
+    color: white;
+    background-color: #4CAF50;
+    padding: 0 5px;
+}
+.name strong {
+    background-color: #008CBA;
+    margin-left: 5px;
+}
